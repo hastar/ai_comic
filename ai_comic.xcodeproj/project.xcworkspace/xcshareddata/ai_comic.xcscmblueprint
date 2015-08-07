@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fc9fca5a-58f4-46a1-bf23-5a7489615d51++5785",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fc9fca5a-58f4-46a1-bf23-5a7489615d51++5785" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fc9fca5a-58f4-46a1-bf23-5a7489615d51++5785" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8B2B7E2A-01BE-4E9E-9E82-97D4A5C2B796",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fc9fca5a-58f4-46a1-bf23-5a7489615d51++5785" : "demo"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ai_comic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ai_comic.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/ai_comic",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fc9fca5a-58f4-46a1-bf23-5a7489615d51++5785"
+    }
+  ]
+}
